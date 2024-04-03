@@ -1,0 +1,43 @@
+body{
+    background-color: #f5e8ba;
+    h1{
+        padding-left: 38%;
+    }
+}
+#mm{
+        padding-left: 50px;
+        color: #ffeba7;
+}
+#one{
+    padding-left: 20px;
+}
+.whole{
+    padding: 20px;
+    margin-top: 4%;
+    margin-left: 35%;
+
+    border-radius: 1px solid black;
+    background-color: #1f2029;
+    width: 250px;
+    height: 350px;
+   
+   
+    #input{
+        width: 220px;
+        height: 230px;
+        border-radius: 4px;
+        padding-left: 5px;
+    }
+    button{
+            margin-left: 62px;
+            background-color: #ffeba7;
+            border-radius: 4px;
+            color:#102770;
+    }
+    
+    #result{
+        margin: 13px;
+        color: red;
+        margin-left: 98px;
+    }
+}
